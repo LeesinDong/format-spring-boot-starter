@@ -1,0 +1,9 @@
+com\leesin\autoconfiguration\FormatAutoConfiguration.class
+com\leesin\format\FormatProcessor.class
+com\leesin\format\JsonFormatProcessor.class
+com\leesin\HelloFormatTemplate.class
+com\leesin\autoconfiguration\HelloAutoConfiguration.class
+com\leesin\App.class
+META-INF\spring-configuration-metadata.json
+com\leesin\autoconfiguration\HelloProperties.class
+com\leesin\format\StringFormatProcessor.class
